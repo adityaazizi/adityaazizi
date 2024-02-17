@@ -5,12 +5,12 @@
 ## About Me
 
 - 🎓 Bachelor of Computer Sciences
-- 💼 AI Engineer - Computer Vision
+- 💼 AI Engineer
 
 ## Skills
 
 - **Programming Languages:** Python, C++, Javascript, GO
-- **Machine Learning:** scikit-learn, Keras, TensorFlow, PyTorch
+- **Machine Learning:** Scikit-learn, Keras, TensorFlow, PyTorch
 - **Computer Vision:** Supervision, Ultralytics YOLO, OpenCV
 - **Tools & Technologies:** Roboflow, Docker, Git, GitHub
 
