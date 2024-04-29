@@ -1,6 +1,6 @@
 # Aditya Aulia Al Azizi
 
-👋 Hello, I'm Aditya Azizi, an AI Engineer passionate about AI, Data, Blockchain, and Crypto. Welcome to my GitHub profile!
+👋 Hello, I'm Aditya Azizi, an AI Engineer passionate about AI and Data. Welcome to my GitHub profile!
 
 ## About Me
 
