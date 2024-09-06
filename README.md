@@ -1,4 +1,4 @@
-# Aditya Aulia Al Azizi
+# Aditya A. Azizi
 
 👋 Hello, I'm Aditya Azizi, an AI Engineer passionate about AI and Data. Welcome to my GitHub profile!
 
@@ -11,8 +11,7 @@
 
 - **Programming Languages:** Python, C++, Javascript, GO
 - **Machine Learning:** Scikit-learn, Keras, TensorFlow, PyTorch
-- **Computer Vision:** Supervision, Ultralytics YOLO, OpenCV
-- **Tools & Technologies:** Roboflow, Docker, Git, GitHub
+- **Tools & Technologies:** Docker, Git, GitHub, GCP
 
 <!-- ## Projects
 
