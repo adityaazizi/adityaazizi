@@ -9,7 +9,7 @@
 
 ## Skills
 
-- **Programming Languages:** Python, C++, Javascript, GO
+- **Programming Languages:** Python, C++
 - **Machine Learning:** Scikit-learn, Keras, TensorFlow, PyTorch
 - **Tools & Technologies:** Docker, Git, GitHub, GCP
 
