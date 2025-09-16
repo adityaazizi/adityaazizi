@@ -11,7 +11,7 @@
 
 - **Programming Languages:** Python, C++
 - **Machine Learning:** Scikit-learn, Keras, TensorFlow, PyTorch
-- **Tools & Technologies:** Docker, Git, GitHub, GCP
+- **Tools & Technologies:** Docker, Git, GitHub, GCP, S3
 
 <!-- ## Projects
 
